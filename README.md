@@ -51,20 +51,7 @@ focus:
 </p>
 
 
----
 
-## 🌐 NEURAL LINKS
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
 
 ## 🧠 CURRENT LOOP
 
