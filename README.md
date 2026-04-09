@@ -12,9 +12,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hi+I'm+Ylenia;Junior+Full+Stack+Developer;Welcome+to+my+Cyber+Space" />
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQY9rZl8xW/giphy.gif" width="500"/>
-</p>
 
 ---
 
