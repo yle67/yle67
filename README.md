@@ -35,9 +35,12 @@ focus:
   - Clean Code
 ```
 
-💾 Sviluppo applicazioni web moderne
-⚡ Sempre in modalità learning
-🧠 Debugging = puzzle game preferito
+```bash
+💾 Sviluppo applicazioni web con attenzione a performance e qualità
+⚡ Sempre alla ricerca di nuove tecnologie da imparare
+🧠 Affronto il debugging come una sfida logica
+```
+
 
 ---
 
