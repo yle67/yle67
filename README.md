@@ -44,7 +44,7 @@ focus:
 ## ⚙️ TECH MATRIX
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,git,github,vscode" />
 </p>
 
 ---
