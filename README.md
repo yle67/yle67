@@ -89,4 +89,4 @@ while(true){
   <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="300"/>
 </p>
 
-> “Stay curious. Stay dangerous. Keep coding.”   aggiungi più gif in questo readme di github profile
+> “Stay curious. Stay dangerous. Keep coding.”  
